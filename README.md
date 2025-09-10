@@ -1,4 +1,4 @@
-#🚛  Projet Big Data – SmartLogistics (LogiTech)
+#Projet Big Data – SmartLogistics (LogiTech)
 📌 ## Contexte
 
 LogiTech souhaite moderniser et optimiser sa chaîne logistique en exploitant le Big Data afin d’améliorer :
